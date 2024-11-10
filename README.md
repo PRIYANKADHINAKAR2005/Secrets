@@ -18,7 +18,7 @@ NPM (comes with Node.js)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/PRIYANKADHINAKAR2005/Secrets
 Navigate to the project folder:
 
 
